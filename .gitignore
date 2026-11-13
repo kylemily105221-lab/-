@@ -1,0 +1,25 @@
+# ==========================================
+# Private & Sensitive Data Protection
+# ==========================================
+# RAW original homework files (Strictly Protected)
+RAW/
+raw/
+
+# Executables & Installers
+*.exe
+*.dll
+*.bin
+*.pak
+
+# Environment & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+*.log
+
+# Sensitive system files
+.env
+*.token
+*.key
